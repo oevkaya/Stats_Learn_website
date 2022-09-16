@@ -1,19 +1,17 @@
-# Website for STA 199, Section 003 at Duke University (Fall 2021)
+# Website for ADA 442, at TED University (Fall 2022-2023)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5482937-2683-4da7-a16b-028071cd40f6/deploy-status)](https://app.netlify.com/sites/sta199-fa21-003/deploys)
 
 :link: [sta199-fa21-003.netlify.app](https://sta199-fa21-003.netlify.app/)
 
-## Colors
+<!--- ## Colors -->
 
-- primary color: #4187aa
-- main accent: #07acac
+<!--- - primary color: #4187aa -->
+<!--- - main accent: #07acac -->
 
 ## Attribution
 
-- The website design is derived from [tidymodels.org](https://www.tidymodels.org) with inspiration from [datavizm20](https://datavizm20.classes.andrewheiss.com) and [introds.org](https://introds.org/).
-
-- Many of the slides and assignments are adapted from [Data Science in a Box](https://datasciencebox.org/) by Mine &Ccedil;etinkaya-Rundel.
+- The website design is derived from [https://sta199-fa21-003.netlify.app/](https://sta199-fa21-003.netlify.app/) with inspiration from [datavizm20](https://datavizm20.classes.andrewheiss.com) and [introds.org](https://introds.org/).
 
 <hr> 
 
